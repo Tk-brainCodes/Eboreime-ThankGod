@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row;
+}
+
+#input {
+  padding: 20px;
+  border: 1px solid grey;
+  outline: none;
+}
+
+.results {
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background: ghostwhite;
+}
